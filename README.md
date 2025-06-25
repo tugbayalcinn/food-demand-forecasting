@@ -21,7 +21,7 @@ In this project:
 - Model evaluation (RMSE)  
 - Interpretation of prediction results
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python  
 - Pandas, NumPy  
