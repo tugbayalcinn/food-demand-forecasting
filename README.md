@@ -18,7 +18,7 @@ In this project:
 - Exploratory Data Analysis and cleaning  
 - Feature engineering for model preparation  
 - Forecasting with regression models (Random Forest, XGBoost, etc.)  
-- Model evaluation (RMSE, MAE)  
+- Model evaluation (RMSE)  
 - Interpretation of prediction results
 
 ## 🛠 Technologies Used
