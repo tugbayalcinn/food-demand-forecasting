@@ -28,3 +28,11 @@ In this project:
 - Matplotlib, Seaborn  
 - Scikit-learn  
 - XGBoost / LightGBM  
+
+###  RMSLE Over Iterations
+
+| Model Version                | Train RMSLE |
+|-----------------------------|-------------|
+| Initial model               | 0.5504      |
+| With Lag Feature            | 0.5198      |
+| With Full Feature Set       | 0.4860      |
